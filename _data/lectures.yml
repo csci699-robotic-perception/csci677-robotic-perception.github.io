@@ -93,7 +93,7 @@
   slides: 
   topics:
     - <strong>midterm report due</strong>
-    - 
+    - <strong>Invited speaker: Nicklas Hansen</strong>
   readings:
     - Proximal Policy Optimization Algorithms
     - Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
@@ -104,7 +104,7 @@
     Week 9: <strong>Imitation Learning</strong>
   slides: 
   topics:
-    - 
+    - <strong>Invited speaker: Tairan He</strong>
     - 
   readings:
     - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
@@ -116,7 +116,7 @@
     Week 10: <strong>Locomotion</strong>
   slides: 
   topics:
-    - 
+    - <strong>Invited speaker: Chenfeng Xu</strong>
     - 
   readings:
     - Legged Locomotion in Challenging Terrains using Egocentric Vision
@@ -128,7 +128,7 @@
     Week 11: <strong>Manipulation</strong>
   slides: 
   topics:
-    - 
+    - <strong>Invited speaker: Jason Yecheng Ma</strong>
     - 
   readings:
     - Robust and Efficient Grasp Perception in Spatial and Temporal Domains
